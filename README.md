@@ -17,7 +17,7 @@ Meet Me, Hi, I’m Sumedh Hingole — a Business Analyst & Data Analyst passiona
 <img align="right" alt="GIF" src="https://github.com/sdhingole111/About-Me/blob/fa340e8e8665a3d1dd2e53bf29988c703543c3f0/sumedh%20data%20analyst%20photo.png" width="400" height="320" />
   
 
-**Talking about Personal Stuffs:**
+**Talking About Personal Stuffs:**
 - 🎓 Education: MBA in Human Resources (2022) & BCA in Computer Applications (2018)
 - 💻 Technical Skills: SQL (PostgreSQL, MySQL, MS SQL Server, Oracle), Power BI, DAX, Power Query, Python (Pandas, NumPy), Excel (Advanced), ETL pipelines, Data Modeling, Dashboard Design
 - 📊 Experience: Data Analyst Intern at DeveloperCorners, where I improved operational efficiency by 15% and reduced data processing time by 20% through automation and visualization
