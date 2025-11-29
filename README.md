@@ -1,5 +1,5 @@
 # About_Me
-All about me
+All About Me
 
 ### Hi there, I'm <a href="https://skst.in" target="_blank">Sumedh Hingole</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -11,7 +11,7 @@ All about me
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Hi, I’m Sumedh Hingole — a Business Analyst & Data Analyst passionate about turning raw data into actionable insights.
+Meet Me, Hi, I’m Sumedh Hingole — a Business Analyst & Data Analyst passionate about turning raw data into actionable insights.
 
 
 <img align="right" alt="GIF" src="https://github.com/sdhingole111/About-Me/blob/fa340e8e8665a3d1dd2e53bf29988c703543c3f0/sumedh%20data%20analyst%20photo.png" width="400" height="320" />
